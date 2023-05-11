@@ -135,7 +135,7 @@ main section h2 {
 
 .third-section {
     color: #5a7c8a;
-    margin: 0 -50px 0 0;
+    margin: 0 -25px 0 0;
 
 }
 
@@ -147,7 +147,7 @@ main section h2 {
 
 .third-section img {
     height: 250px;
-    width: 418px;
+    width: 411px;
 }
 
 .third-section ul li {
@@ -199,7 +199,7 @@ footer {
     background: #43bae3;
     font-size: 16px;
     color: #5a7c8a;
-    width: 102%;
+
 }
 
 footer h4 {
